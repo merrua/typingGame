@@ -1,0 +1,8 @@
+C:\Users\mary.gilmartin\Documents\Visual Studio 2013\Projects\old\TypingGame\TypingGame\bin\Debug\TypingGame.exe
+C:\Users\mary.gilmartin\Documents\Visual Studio 2013\Projects\old\TypingGame\TypingGame\bin\Debug\TypingGame.pdb
+C:\Users\mary.gilmartin\Documents\Visual Studio 2013\Projects\old\TypingGame\TypingGame\obj\Debug\TypingGame.csprojResolveAssemblyReference.cache
+C:\Users\mary.gilmartin\Documents\Visual Studio 2013\Projects\old\TypingGame\TypingGame\obj\Debug\TypingGame.TypingGame.resources
+C:\Users\mary.gilmartin\Documents\Visual Studio 2013\Projects\old\TypingGame\TypingGame\obj\Debug\TypingGame.Properties.Resources.resources
+C:\Users\mary.gilmartin\Documents\Visual Studio 2013\Projects\old\TypingGame\TypingGame\obj\Debug\TypingGame.csproj.GenerateResource.Cache
+C:\Users\mary.gilmartin\Documents\Visual Studio 2013\Projects\old\TypingGame\TypingGame\obj\Debug\TypingGame.exe
+C:\Users\mary.gilmartin\Documents\Visual Studio 2013\Projects\old\TypingGame\TypingGame\obj\Debug\TypingGame.pdb
